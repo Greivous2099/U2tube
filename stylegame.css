@@ -1,0 +1,11 @@
+h1{ display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+}
+body{
+    background-color: black;
+}
+h2{
+    color: rgb(255, 255, 255);
+}
